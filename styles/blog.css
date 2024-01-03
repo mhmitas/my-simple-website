@@ -1,7 +1,18 @@
+body{
+    background-color: #4dff88;
+    margin: 10px;
+    /* opacity: 0.6; */
+}
 div{
     background-color: darkslategrey;
     color: beige;
     font-size: large;
     padding: 15px;
-    border: 10px solid blue;
+    /* border: 10px solid blue; */
+}
+.gittu{
+    font-size: larger;
+    font-weight: 800;
+    border: 3px solid red;
+    padding: 10px;
 }
